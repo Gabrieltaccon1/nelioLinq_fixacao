@@ -1,0 +1,11 @@
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\bin\Debug\netcoreapp2.2\EXEMPLO_LINQ2.deps.json
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\bin\Debug\netcoreapp2.2\EXEMPLO_LINQ2.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\bin\Debug\netcoreapp2.2\EXEMPLO_LINQ2.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\bin\Debug\netcoreapp2.2\EXEMPLO_LINQ2.dll
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\bin\Debug\netcoreapp2.2\EXEMPLO_LINQ2.pdb
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.csprojAssemblyReference.cache
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.dll
+C:\Users\Treinamento 4\source\repos\EXEMPLO_LINQ2\EXEMPLO_LINQ2\obj\Debug\netcoreapp2.2\EXEMPLO_LINQ2.pdb
